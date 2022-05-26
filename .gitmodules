@@ -1,0 +1,3 @@
+[submodule "example_config"]
+	path = example_config
+	url = https://github.com/wrapbin/example_config
